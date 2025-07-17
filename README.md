@@ -24,9 +24,9 @@
   <a href="https://www.linkedin.com/in/shivam-saini-a87b5b251/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/shivamsaini5163" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
+  <a href="mailto:shivamsaini1072005@gmail.com" target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" height="30" width="40" />
+</a>
 </p>
 
 ---
