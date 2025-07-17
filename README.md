@@ -99,6 +99,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </p>
-![Snake animation](https://github.com/shivamsaini5163/shivamsaini5163/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Shivamsaini5163/Shivamsaini5163/blob/output/github-contribution-grid-snake.svg)
 
 
