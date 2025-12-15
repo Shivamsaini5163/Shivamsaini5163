@@ -15,7 +15,7 @@
 <ul>
   <li>🚀 Currently learning <strong>Spring Boot</strong>, <strong>REST APIs</strong>, and <strong>Spring Security</strong></li>
   <li>💡 I love building real-world projects and writing clean, maintainable code</li>
-  <li>🧠 Solved <strong>250+ DSA problems</strong> on <a href="https://leetcode.com/shivamsaini5163/" target="_blank">LeetCode</a> and counting!</li>
+  <li>🧠 Solved <strong>300+ DSA problems</strong> on <a href="https://leetcode.com/shivamsaini5163/" target="_blank">LeetCode</a> and counting!</li>
   <li>🌱 Open to internships and collaborative opportunities</li>
 </ul>
 
